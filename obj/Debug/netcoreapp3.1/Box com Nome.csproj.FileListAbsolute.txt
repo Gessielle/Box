@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\bin\Debug\netcoreapp3.1\Box com Nome.exe
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\bin\Debug\netcoreapp3.1\Box com Nome.deps.json
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\bin\Debug\netcoreapp3.1\Box com Nome.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\bin\Debug\netcoreapp3.1\Box com Nome.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\bin\Debug\netcoreapp3.1\Box com Nome.dll
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\bin\Debug\netcoreapp3.1\Box com Nome.pdb
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\obj\Debug\netcoreapp3.1\Box com Nome.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\obj\Debug\netcoreapp3.1\Box com Nome.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\obj\Debug\netcoreapp3.1\Box com Nome.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\obj\Debug\netcoreapp3.1\Box com Nome.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\obj\Debug\netcoreapp3.1\Box com Nome.dll
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\obj\Debug\netcoreapp3.1\Box com Nome.pdb
+C:\Users\POSITIVO\Desktop\PC1\Box com Nome\obj\Debug\netcoreapp3.1\Box com Nome.genruntimeconfig.cache
